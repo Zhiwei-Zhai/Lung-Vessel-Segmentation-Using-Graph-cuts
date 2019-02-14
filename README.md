@@ -5,7 +5,7 @@ http://www.wisdom.weizmann.ac.il/~bagon/matlab_code/GCmex1.9.tar.gz
 
 2. Unzip the 'GCmex1.9.tar.gz' and complie the graph-cuts mex file following the corresponding instruction.
 
-3.Run Demo.m file in Matlab
+3. Run Demo.m file in Matlab
 
 If you use the software, you should reference the following paper:
 
