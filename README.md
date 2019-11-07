@@ -31,4 +31,5 @@ If you use the software, you should reference the following paper:
 ```
 
 [1] Zhai, Zhiwei, Marius Staring, and Berend C. Stoel. "Lung vessel segmentation in CT images using graph cuts." SPIE Medical Imaging. International Society for Optics and Photonics, 2016.
+
 [2] Zhai, Zhiwei, et al. "Automatic quantitative analysis of pulmonary vascular morphology in CT images." Medical physics (2019).
